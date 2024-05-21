@@ -11,6 +11,6 @@ Console.WriteLine("\n");
 
 Console.WriteLine("Smartphone Iphone: ");
 Iphone iphone = new Iphone("43653121", "Modelo 2", "2222222222", 256);
-nokia.ReceberLigacao();
-nokia.InstalarAplicativo("Telegram");
+iphone.ReceberLigacao();
+iphone.InstalarAplicativo("Telegram");
 
